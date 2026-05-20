@@ -31,7 +31,22 @@
   <img src="https://komarev.com/ghpvc/?username=IshtPrasadSingh&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-## 🔗 Connect With Me
-- LinkedIn
-- LeetCode
-- Twitter
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINK" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/IshtPrasadSingh" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://leetcode.com/IshtPrasadSingh/" target="blank">
+<img align="center" src="https://cdn.simpleicons.org/leetcode" height="40" />
+</a>
+</p>
