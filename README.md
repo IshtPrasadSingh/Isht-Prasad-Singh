@@ -19,11 +19,9 @@
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
+ ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IshtPrasadSingh&show_icons=true&theme=tokyonight)
-
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=IshtPrasadSingh&show_icons=true&theme=tokyonight)
 ---
 
 ## 🔗 Connect With Me
