@@ -27,6 +27,11 @@
 </p>
 
 ---
+## 📊 LeetCode & GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IshtPrasadSingh&theme=tokyonight" />
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=IshtPrasadSingh&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
