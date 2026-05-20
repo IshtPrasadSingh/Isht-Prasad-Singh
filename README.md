@@ -1,10 +1,10 @@
 # Hi 👋, I'm Isht Prasad Singh
 
 ## 🚀 About Me
-- 🎓 BTech CSE Student
-- 💻 Learning DSA in Java
-- 🌱 Exploring Web Development
-- 🔥 Solving LeetCode Problems
+- 🎓 BTech CSE Student passionate about Data Structures & Algorithms and problem-solving
+- 💻 Currently strengthning my DSA foundations through JAVA 
+- 🌱 Exploring Web Development and building projects to improve real-world development skills
+- 🤝 Interested in contributing to Open Source and collaborating with developers to learn and grow.
 
 ---
 
