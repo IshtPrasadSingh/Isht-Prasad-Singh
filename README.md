@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Isht Prasad Singh</h1>
+ <h1 align="center">Hi 👋, I'm Isht Prasad Singh</h1>
+
+<h3 align="center">A passionate CSE student from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=BTech+CSE+Student;DSA+Enthusiast;Java+Developer;Open+Source+Learner;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72D&center=true&vCenter=true&width=500&lines=Java+Developer;DSA+Enthusiast;Open+Source+Learner;Future+Software+Engineer" alt="Typing SVG" />
 </p>
 
 ## 🚀 About Me
