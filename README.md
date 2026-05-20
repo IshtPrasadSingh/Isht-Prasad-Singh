@@ -1,5 +1,5 @@
- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9966,100:ff5e62&height=220&section=header&text=ISHT%20PRASAD%20SINGH&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=ISHT%20PRASAD%20SINGH&fontSize=55&fontAlignY=40&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 ## 🚀 About Me
