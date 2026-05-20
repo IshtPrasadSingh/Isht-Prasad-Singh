@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=ISHT%20PRASAD%20SINGH&fontSize=55&fontAlignY=40&animation=fadeIn&fontColor=ffffff" />
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00C9FF&height=260&section=header&text=ISHT%20PRASAD%20SINGH&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20DSA%20Enthusiast%20%7C%20Open%20Source%20Learner&descAlignY=60&descSize=18" />
 </p>
+
 
 ## 🚀 About Me
 - 🎓 BTech CSE Student passionate about Data Structures & Algorithms and problem-solving
