@@ -23,7 +23,11 @@
  ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=IshtPrasadSingh&show_icons=true&theme=tokyonight)
+
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IshtPrasadSingh&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ## 🔗 Connect With Me
 - LinkedIn
