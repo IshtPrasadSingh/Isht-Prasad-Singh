@@ -7,11 +7,7 @@
 - 🌱 Exploring Web Development and building projects to improve real-world development skills
 - 🤝 Interested in contributing to Open Source and collaborating with developers to learn and grow.
 
----
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IshtPrasadSingh&layout=compact&theme=tokyonight" />
-</p>
-
+--- 
 ## 🛠 Skills
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -25,7 +21,9 @@
 ---
  ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=IshtPrasadSingh&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=IshtPrasadSingh&show_icons=true&theme=tokyonight)<p><p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IshtPrasadSingh&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 <p align="center">
