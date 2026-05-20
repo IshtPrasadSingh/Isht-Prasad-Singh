@@ -8,6 +8,9 @@
 - 🤝 Interested in contributing to Open Source and collaborating with developers to learn and grow.
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IshtPrasadSingh&layout=compact&theme=tokyonight" />
+</p>
 
 ## 🛠 Skills
 
