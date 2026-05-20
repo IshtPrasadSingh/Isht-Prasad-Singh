@@ -37,15 +37,11 @@
 <a href="https://linkedin.com/in/YOUR_LINK" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
-
-&nbsp;&nbsp;
-
+&nbsp;
 <a href="https://github.com/IshtPrasadSingh" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
-
-&nbsp;&nbsp;
-
+&nbsp;
 <a href="https://leetcode.com/IshtPrasadSingh/" target="blank">
 <img align="center" src="https://cdn.simpleicons.org/leetcode" height="40" />
 </a>
